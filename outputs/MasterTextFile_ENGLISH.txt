@@ -1808,8 +1808,8 @@ TEXT_GL_DISCORD,У вас есть предложение, отчет об ош�
 TEXT_GL_PLANET_DESCRIPTION,Некоторые планеты могут изначально поддерживать дополнительные структуры. Любые планеты обозначены значками ниже.
 TEXT_GL_RESOURCE_OTHER,Структуры
 TEXT_GL_WEBSITE,Строительство продолжается
-TEXT_GOLAN_ONE_COLONY,Космическая колония Голаны-I
-TEXT_GOLAN_TWO_COLONY,Космическая колония Голаны-II
+TEXT_GOLAN_ONE_COLONY,Космическая колония Голан-I
+TEXT_GOLAN_TWO_COLONY,Космическая колония Голан-II
 TEXT_GOOD_LAND_GARRISON,Гарнизон
 TEXT_GOOD_SPACE_FLEET,Флот
 TEXT_GOVERNMENT_BLOODLUST_FAILURE_MANDO,Ваша неспособность уничтожить %s опозорила нас!\n
@@ -2127,7 +2127,7 @@ TEXT_HISTORY_DESCRIPTION,Из-за жестко запрограммирован
 TEXT_HOST_IP,Адрес хоста:
 TEXT_HOST_LEFT_GAME,Хозяин игры покинул игру
 TEXT_HOST_PREFIX,Хозяин
-TEXT_IDC_NEW_FIGHT_BUTTON,Начинать
+TEXT_IDC_NEW_FIGHT_BUTTON,Начать
 TEXT_IGNORE_PLAYER,игнорировать
 TEXT_IGNORING_PLAYER,Игнорирование игрока:
 TEXT_IN_BASE_SS_POSITION,Позиция внутрибазовой специальной структуры
@@ -2727,7 +2727,7 @@ TEXT_OBJECT_STAR_SYSTEM_CASFIELD,Касфилд 6
 TEXT_OBJECT_STAR_SYSTEM_CASTELL,Кастелл
 TEXT_OBJECT_STAR_SYSTEM_CATHAR,Город
 TEXT_OBJECT_STAR_SYSTEM_CATLIA,Катлия
-TEXT_OBJECT_STAR_SYSTEM_CATO_NEIMOIDIA,Катон Неймодия
+TEXT_OBJECT_STAR_SYSTEM_CATO_NEIMOIDIA,Като Неймодия
 TEXT_OBJECT_STAR_SYSTEM_CATTAMASCAR,Каттамаскар
 TEXT_OBJECT_STAR_SYSTEM_CAULDRON_NEBULA,Туманность Котел
 TEXT_OBJECT_STAR_SYSTEM_CEJANSIJ,Чеянсий
